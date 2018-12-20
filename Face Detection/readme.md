@@ -1,11 +1,11 @@
 HARSHITH REDDY.B   |   harshithreddy.ai@gmail.com
----------------------------------------------------------------
+
 
 WHAT IS FACE DETECTION?
 ========================
 *The definition of face detection refers to a 
 subset of computer technology that is able to 
-identify people’s faces within digital images. 
+identify peopleâ€™s faces within digital images. 
 Face detection applications employ algorithms 
 focused on detecting human faces within larger 
 images that might contain landscapes, objects and 
@@ -17,9 +17,9 @@ OBJECTIVE:
 
 LIBRARIES USED:
 ===============
-•	dlib
-•	face_recognition
-•	openCV
+â€¢	dlib
+â€¢	face_recognition
+â€¢	openCV
 
 ENVIRONMENT:
 =============
